@@ -1,4 +1,4 @@
-# Python-Project-on-Crime-Data
+# Python Project on Crime Data
 
 🚨 Crime Data Analytics Project Completed! 🚨
 Thrilled to share my latest end-to-end data analytics project where I performed an in-depth Crime Pattern Analysis across Indian States 📊.
